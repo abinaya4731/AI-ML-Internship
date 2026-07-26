@@ -6,10 +6,10 @@ This repository contains my daily learning, practice programs, and assignments c
 
 ## 📌 Internship Details
 
-- **Company:** Codomax Digital Solutions
-- **Domain:** Artificial Intelligence & Machine Learning
-- **Duration:** 14 Days
-- **Mode:** Remote
+- Company: Codomax Digital Solutions
+- Domain: Artificial Intelligence & Machine Learning
+- Duration: 14 Days
+- Mode: Remote
 
 ---
 
@@ -133,7 +133,7 @@ AI-ML-Internship/
 
 # 📌 Repository Link
 
-🔗 **GitHub Repository:**
+🔗 GitHub Repository:
 
 **https://github.com/abinaya4731/AI-ML-Internship**
 
@@ -147,7 +147,7 @@ To build a strong foundation in **Python, Artificial Intelligence, Machine Learn
 
 # 👩‍💻 Author
 
-**Abinaya M**
+Abinaya M
 
 - GitHub: https://github.com/abinaya4731
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/abinaya-maadhu?utm_source=share_via&utm_content=profile&utm_medium=member_android
