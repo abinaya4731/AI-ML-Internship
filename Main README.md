@@ -15,7 +15,7 @@ This repository contains my daily learning, practice programs, and assignments c
 
 ## 📂 Repository Structure
 
-```
+```text
 AI-ML-Internship/
 │
 ├── Day 1/
@@ -38,6 +38,11 @@ AI-ML-Internship/
 │   ├── dataframe.py
 │   ├── selection.py
 │   └── summary.py
+│
+├── Day 5/
+│   ├── missing_values.py
+│   ├── duplicates.py
+│   └── cleaning.py
 │
 └── README.md
 ```
@@ -100,6 +105,22 @@ AI-ML-Internship/
 
 ---
 
+## ✅ Day 5 – Data Cleaning
+
+### Topics Covered
+
+- Missing Values
+- Handling Null Values
+- Removing Missing Data
+- Filling Missing Values
+- Duplicate Data
+- Removing Duplicate Rows
+- Data Cleaning Techniques
+- Sorting and Updating Data
+- Resetting Index
+
+---
+
 # 🛠️ Technologies Used
 
 - Python
@@ -115,8 +136,7 @@ AI-ML-Internship/
 # 🎯 Skills Learned
 
 - Python Programming
-- Variables
-- Data Types
+- Variables & Data Types
 - Operators
 - Loops
 - Functions
@@ -126,6 +146,9 @@ AI-ML-Internship/
 - Pandas DataFrames
 - Data Selection
 - Data Analysis
+- Data Cleaning
+- Handling Missing Values
+- Removing Duplicates
 - Problem Solving
 - Version Control using Git & GitHub
 
