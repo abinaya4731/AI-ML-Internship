@@ -44,10 +44,14 @@ AI-ML-Internship/
 │   ├── duplicates.py
 │   └── cleaning.py
 │
+├── Day 6/
+│   ├── line_chart.py
+│   ├── bar_chart.py
+│   ├── pie_chart.py
+│   └── histogram.py
+│
 └── README.md
 ```
-
----
 
 # 🚀 Day 1 – Environment Setup
 
@@ -118,6 +122,22 @@ AI-ML-Internship/
 - Data Cleaning Techniques
 - Sorting and Updating Data
 - Resetting Index
+
+---
+
+## ✅ Day 6 – Data Visualization with Matplotlib
+
+### Topics Covered
+
+- Matplotlib Installation
+- Line Charts
+- Bar Charts
+- Pie Charts
+- Histograms
+- Chart Titles
+- Axis Labels
+- Grid
+- Data Visualization Practice Programs
 
 ---
 
