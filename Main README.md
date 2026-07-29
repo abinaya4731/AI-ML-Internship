@@ -141,11 +141,28 @@ AI-ML-Internship/
 
 ---
 
+## ✅ Day 7 – Data Visualization with Seaborn
+
+### Topics Covered
+
+- Seaborn Installation
+- Line Plot
+- Bar Plot
+- Scatter Plot
+- Histogram
+- Box Plot
+- Data Visualization using Seaborn
+- Practice Programs
+
+---
+
 # 🛠️ Technologies Used
 
 - Python
 - NumPy
 - Pandas
+- Matplotlib
+- Seaborn
 - VS Code
 - Jupyter Notebook
 - Git
@@ -163,7 +180,7 @@ AI-ML-Internship/
 - NumPy Arrays
 - Array Indexing
 - Mathematical Operations
-- Pandas DataFrames
+- Pandas DataFrame
 - Data Selection
 - Data Analysis
 - Data Cleaning
