@@ -49,7 +49,22 @@ AI-ML-Internship/
 │   ├── bar_chart.py
 │   ├── pie_chart.py
 │   └── histogram.py
-│
+├── Day 7/
+│   ├── line_plot.py
+│   ├── bar_plot.py
+│   ├── scatter_plot.py
+│   ├── histogram.py
+│   └── box_plot.py
+├── Day 8/
+│   ├── read_file.py
+│   ├── write_file.py
+│   ├── append_file.py
+│   ├── with_open.py
+│   ├── file_operations.py
+│   ├── student.txt
+│   ├── data.txt
+│   ├── notes.txt
+│   └── marks.txt│
 └── README.md
 ```
 
@@ -154,6 +169,21 @@ AI-ML-Internship/
 - Data Visualization using Seaborn
 - Practice Programs
 
+---
+
+## ✅ Day 8 – File Handling in Python
+
+### Topics Covered
+
+- File Handling Basics
+- Reading Files
+- Writing Files
+- Appending Data
+- Using `with open()`
+- File Operations
+- Text File Management
+- Practice Programs
+  
 ---
 
 # 🛠️ Technologies Used
