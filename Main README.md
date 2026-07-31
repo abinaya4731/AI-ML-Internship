@@ -64,7 +64,12 @@ AI-ML-Internship/
 │   ├── student.txt
 │   ├── data.txt
 │   ├── notes.txt
-│   └── marks.txt│
+│   └── marks.txt
+├── Day 9/
+│   ├── basic_exception.py
+│   ├── division_exception.py
+│   ├── else_finally.py
+│   └── multiple_exceptions.py
 └── README.md
 ```
 
@@ -184,6 +189,21 @@ AI-ML-Internship/
 - Text File Management
 - Practice Programs
   
+---
+
+## ✅ Day 9 – Exception Handling in Python
+
+### Topics Covered
+
+- Exception Handling Basics
+- try Block
+- except Block
+- else Block
+- finally Block
+- Multiple Exception Handling
+- Real-world Exception Handling Programs
+- Practice Programs
+
 ---
 
 # 🛠️ Technologies Used
