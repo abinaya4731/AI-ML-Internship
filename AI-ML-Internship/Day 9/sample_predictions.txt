@@ -1,0 +1,11 @@
+Study Hours : 2
+Predicted Score : 25
+
+Study Hours : 5
+Predicted Score : 55
+
+Study Hours : 8
+Predicted Score : 85
+
+Study Hours : 10
+Predicted Score : 100
