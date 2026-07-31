@@ -1,79 +1,38 @@
-# AI & ML Internship
+# 🚀 AI & ML Internship – Codomax Digital Solutions
 
-This repository contains my daily learning, practice programs, and assignments completed during the **AI & ML Internship** at **Codomax Digital Solutions**.
-
----
-
-## 📌 Internship Details
-
-- Company: Codomax Digital Solutions
-- Domain: Artificial Intelligence & Machine Learning
-- Duration: 14 Days
-- Mode: Remote
+Welcome to my **AI & ML Internship** repository. This repository contains my daily learning, practice programs, assignments, and mini-projects completed during the **14-Day AI & Machine Learning Internship** at **Codomax Digital Solutions**.
 
 ---
 
-## 📂 Repository Structure
+# 📌 Internship Details
 
-```text
+- **Company:** Codomax Digital Solutions
+- **Domain:** Artificial Intelligence & Machine Learning
+- **Duration:** 14 Days
+- **Mode:** Remote
+
+---
+
+# 📂 Repository Structure
+
+```
 AI-ML-Internship/
 │
 ├── Day 1/
-│   ├── hello.py
-│   └── Environment Setup
-│
 ├── Day 2/
-│   ├── variables.py
-│   ├── datatypes.py
-│   ├── operators.py
-│   ├── loops.py
-│   └── functions.py
-│
 ├── Day 3/
-│   ├── arrays.py
-│   ├── indexing.py
-│   └── math_operations.py
-│
 ├── Day 4/
-│   ├── dataframe.py
-│   ├── selection.py
-│   └── summary.py
-│
 ├── Day 5/
-│   ├── missing_values.py
-│   ├── duplicates.py
-│   └── cleaning.py
-│
 ├── Day 6/
-│   ├── line_chart.py
-│   ├── bar_chart.py
-│   ├── pie_chart.py
-│   └── histogram.py
 ├── Day 7/
-│   ├── line_plot.py
-│   ├── bar_plot.py
-│   ├── scatter_plot.py
-│   ├── histogram.py
-│   └── box_plot.py
 ├── Day 8/
-│   ├── read_file.py
-│   ├── write_file.py
-│   ├── append_file.py
-│   ├── with_open.py
-│   ├── file_operations.py
-│   ├── student.txt
-│   ├── data.txt
-│   ├── notes.txt
-│   └── marks.txt
 ├── Day 9/
-│   ├── basic_exception.py
-│   ├── division_exception.py
-│   ├── else_finally.py
-│   └── multiple_exceptions.py
 └── README.md
 ```
 
-# 🚀 Day 1 – Environment Setup
+---
+
+# ✅ Day 1 – Environment Setup
 
 ### Topics Covered
 - Installed Python
@@ -81,128 +40,160 @@ AI-ML-Internship/
 - Installed Jupyter Notebook
 - Installed Git
 - Created GitHub Repository
-- Ran the first Python program
-- Learned the basics of AI, Machine Learning, and Data Science
+- Learned AI Basics
+- Learned Machine Learning Basics
+- Learned Data Science Basics
+- Ran the First Python Program
 
 ---
 
-# 💻 Day 2 – Python Basics
+# ✅ Day 2 – Python Basics
 
 ### Topics Covered
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions
+
+### Practice Programs
 - Variables
 - Data Types
 - Operators
 - Loops
 - Functions
 
-### Practice
-- Variables Programs
-- Data Types Programs
-- Operators Programs
-- Loops Programs
-- Functions Programs
-
 ---
 
-# 📊 Day 3 – NumPy Basics
+# ✅ Day 3 – NumPy Basics
 
 ### Topics Covered
-- Installed NumPy
-- Created NumPy Arrays
+- NumPy Installation
+- NumPy Arrays
 - Array Indexing
+- Array Slicing
 - Mathematical Operations
-- NumPy Practice Programs
+- Mean
+- Maximum
+- Minimum
+
+### Practice Programs
+- Array Creation
+- Indexing
+- Mathematical Operations
 
 ---
 
-# 📈 Day 4 – Pandas Basics
+# ✅ Day 4 – Pandas Basics
 
 ### Topics Covered
-- Installed Pandas
-- Created DataFrames
-- Added and Updated Columns
-- Selected Rows and Columns
-- Used `head()` and `tail()`
-- Used `info()` and `describe()`
-- Found Maximum and Average Values
-- Pandas Practice Programs
+- Pandas Installation
+- Loading Dataset
+- DataFrame
+- Head & Tail
+- Info
+- Describe
+- Selecting Rows & Columns
+- Dataset Summary
+
+### Practice Programs
+- Load Dataset
+- DataFrame Operations
+- Dataset Information
 
 ---
 
-## ✅ Day 5 – Data Cleaning
+# ✅ Day 5 – Data Cleaning
 
 ### Topics Covered
-
 - Missing Values
 - Handling Null Values
-- Removing Missing Data
 - Filling Missing Values
+- Removing Missing Values
 - Duplicate Data
-- Removing Duplicate Rows
+- Removing Duplicates
+- Dataset Statistics
 - Data Cleaning Techniques
-- Sorting and Updating Data
-- Resetting Index
+
+### Practice Programs
+- Missing Values
+- Duplicate Removal
+- Data Cleaning
 
 ---
 
-## ✅ Day 6 – Data Visualization with Matplotlib
+# ✅ Day 6 – Data Visualization
 
 ### Topics Covered
-
-- Matplotlib Installation
-- Line Charts
-- Bar Charts
-- Pie Charts
-- Histograms
-- Chart Titles
-- Axis Labels
-- Grid
-- Data Visualization Practice Programs
-
----
-
-## ✅ Day 7 – Data Visualization with Seaborn
-
-### Topics Covered
-
-- Seaborn Installation
-- Line Plot
-- Bar Plot
+- Matplotlib
 - Scatter Plot
-- Histogram
-- Box Plot
-- Data Visualization using Seaborn
-- Practice Programs
+- Line Chart
+- Bar Chart
+- Data Visualization
+- Labels
+- Titles
+- Grid
+
+### Practice Programs
+- Scatter Plot
+- Line Chart
+- Bar Chart
 
 ---
 
-## ✅ Day 8 – File Handling in Python
+# ✅ Day 7 – Machine Learning Basics
 
 ### Topics Covered
+- Introduction to Machine Learning
+- Types of Machine Learning
+- Supervised Learning
+- Features & Target Variables
+- Train-Test Split
+- Linear Regression Basics
+- Scikit-learn Introduction
 
-- File Handling Basics
-- Reading Files
-- Writing Files
-- Appending Data
-- Using `with open()`
-- File Operations
-- Text File Management
-- Practice Programs
-  
+### Practice Programs
+- Dataset Loading
+- Feature Selection
+- Train-Test Split
+- Linear Regression Concepts
+
 ---
 
-## ✅ Day 9 – Exception Handling in Python
+# ✅ Day 8 – Build Linear Regression Model
 
 ### Topics Covered
+- Loading Dataset
+- Feature Selection
+- Target Selection
+- Train-Test Split
+- Creating Linear Regression Model
+- Model Training
+- Model Coefficient
+- Model Intercept
 
-- Exception Handling Basics
-- try Block
-- except Block
-- else Block
-- finally Block
-- Multiple Exception Handling
-- Real-world Exception Handling Programs
-- Practice Programs
+### Practice Programs
+- Create Linear Regression Model
+- Train the Model
+- Display Model Details
+
+---
+
+# ✅ Day 9 – Student Score Prediction
+
+### Topics Covered
+- Predict Student Scores
+- Single Prediction
+- Multiple Predictions
+- Actual vs Predicted Results
+- User Input Prediction
+
+### Practice Programs
+- Predict Student Score
+- Multiple Predictions
+- Actual vs Predicted Comparison
+- User Prediction Program
 
 ---
 
@@ -212,52 +203,71 @@ AI-ML-Internship/
 - NumPy
 - Pandas
 - Matplotlib
-- Seaborn
-- VS Code
+- Scikit-learn
 - Jupyter Notebook
+- VS Code
 - Git
 - GitHub
 
 ---
 
-# 🎯 Skills Learned
+# 🎯 Skills Gained
 
 - Python Programming
-- Variables & Data Types
-- Operators
-- Loops
-- Functions
 - NumPy Arrays
-- Array Indexing
-- Mathematical Operations
-- Pandas DataFrame
-- Data Selection
-- Data Analysis
+- Pandas Data Analysis
 - Data Cleaning
-- Handling Missing Values
-- Removing Duplicates
-- Problem Solving
-- Version Control using Git & GitHub
+- Data Visualization
+- Machine Learning Fundamentals
+- Train-Test Split
+- Linear Regression
+- Model Training
+- Student Score Prediction
+- Git & GitHub
 
 ---
 
-# 📌 Repository Link
+# 🎯 Project
 
-🔗 GitHub Repository:
+## Student Score Prediction using Machine Learning
 
-**https://github.com/abinaya4731/AI-ML-Internship**
+**Input:** Study Hours
+
+**Output:** Predicted Student Score
+
+The project uses a **Linear Regression** model to predict a student's score based on the number of hours studied.
 
 ---
 
-# 🎯 Goal
+# 📈 Internship Progress
 
-To build a strong foundation in **Python, Artificial Intelligence, Machine Learning, and Data Science** through hands-on practice, daily coding, and real-world projects.
+- ✅ Day 1 Completed
+- ✅ Day 2 Completed
+- ✅ Day 3 Completed
+- ✅ Day 4 Completed
+- ✅ Day 5 Completed
+- ✅ Day 6 Completed
+- ✅ Day 7 Completed
+- ✅ Day 8 Completed
+- ✅ Day 9 Completed
+- ⏳ Day 10 – Model Evaluation
+- ⏳ Day 11 – Prediction Application
+- ⏳ Day 12 – Project Improvement
+- ⏳ Day 13 – GitHub Project Documentation
+- ⏳ Day 14 – Final Project Submission
 
 ---
 
 # 👩‍💻 Author
 
-Abinaya M
+**Abinaya M**
 
-- GitHub: https://github.com/abinaya4731
-- LinkedIn: https://www.linkedin.com/in/abinaya-maadhu?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🎓 B.Tech – Artificial Intelligence & Data Science
+
+🔗 GitHub: https://github.com/abinaya4731
+
+🔗 LinkedIn: https://www.linkedin.com/in/abinaya-maadhu?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
+
+⭐ **Thank you for visiting my repository! Feel free to explore my daily progress and projects.**
