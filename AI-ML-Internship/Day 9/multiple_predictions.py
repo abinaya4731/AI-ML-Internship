@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
-df = pd.read_csv("Day 7/student_scores.csv")
+df = pd.read_csv("student_scores.csv")
 
 X = df[["Hours"]]
 y = df["Scores"]

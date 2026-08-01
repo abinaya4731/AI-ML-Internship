@@ -15,14 +15,13 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 model = LinearRegression()
+
 model.fit(X_train, y_train)
 
-predicted = model.predict(X_test)
+y_pred = model.predict(X_test)
 
-result = pd.DataFrame({
-    "Study Hours": X_test["Hours"],
-    "Actual Score": y_test,
-    "Predicted Score": predicted
-})
+print("Actual Values")
+print(y_test)
 
-print(result)
+print("\nPredicted Values")
+print(y_pred)
