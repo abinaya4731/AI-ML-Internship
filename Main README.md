@@ -197,6 +197,36 @@ AI-ML-Internship/
 
 ---
 
+# ✅ Day 10 – Model Evaluation
+
+### 📚 Topics Covered
+
+- Model Evaluation
+- Actual vs Predicted Values
+- Mean Absolute Error (MAE)
+- Mean Squared Error (MSE)
+- R² Score
+- Model Performance Analysis
+
+### 💻 Practice Programs
+
+- evaluate_model.py
+- mae.py
+- mse.py
+- r2_score.py
+- model_summary.py
+
+### 🎯 Learning Outcomes
+
+- Evaluated the trained Linear Regression model.
+- Compared actual values with predicted values.
+- Calculated Mean Absolute Error (MAE).
+- Calculated Mean Squared Error (MSE).
+- Measured model accuracy using R² Score.
+- Understood the importance of evaluating Machine Learning models.
+
+---
+
 # 🛠️ Technologies Used
 
 - Python
@@ -250,7 +280,7 @@ The project uses a **Linear Regression** model to predict a student's score base
 - ✅ Day 7 Completed
 - ✅ Day 8 Completed
 - ✅ Day 9 Completed
-- ⏳ Day 10 – Model Evaluation
+- ✅ Day 10 – Completed
 - ⏳ Day 11 – Prediction Application
 - ⏳ Day 12 – Project Improvement
 - ⏳ Day 13 – GitHub Project Documentation
