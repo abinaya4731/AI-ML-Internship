@@ -227,6 +227,34 @@ AI-ML-Internship/
 
 ---
 
+# ✅ Day 11 – Student Score Prediction Application
+
+### 📚 Topics Covered
+
+- Student Score Prediction Application
+- User Input Handling
+- Model Training
+- Linear Regression
+- Single Prediction
+- Multiple Predictions
+- Real-time Prediction
+
+### 💻 Practice Programs
+
+- train_model.py
+- prediction_app.py
+- multiple_predictions.py
+- prediction_summary.py
+
+### 🎯 Learning Outcomes
+
+- Built a simple Machine Learning prediction application.
+- Accepted user input to predict student scores.
+- Used a trained Linear Regression model for predictions.
+- Tested the model with different study-hour values.
+- Improved understanding of deploying a basic ML workflow in Python.
+
+---
 # 🛠️ Technologies Used
 
 - Python
@@ -281,7 +309,7 @@ The project uses a **Linear Regression** model to predict a student's score base
 - ✅ Day 8 Completed
 - ✅ Day 9 Completed
 - ✅ Day 10 – Completed
-- ⏳ Day 11 – Prediction Application
+- ⏳ Day 11 – Completed
 - ⏳ Day 12 – Project Improvement
 - ⏳ Day 13 – GitHub Project Documentation
 - ⏳ Day 14 – Final Project Submission
