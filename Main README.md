@@ -285,6 +285,37 @@ AI-ML-Internship/
 
 ---
 
+# ✅ Day 12 – Project Enhancement
+
+### 📚 Topics Covered
+
+- Project Enhancement
+- Code Organization
+- Input Validation
+- Dataset Summary
+- Project Documentation
+- Requirements File
+- Project Structure
+
+### 💻 Practice Programs
+
+- enhanced_prediction.py
+- dataset_summary.py
+- project_information.py
+- project_summary.md
+- requirements.txt
+
+### 🎯 Learning Outcomes
+
+- Improved the project structure.
+- Added input validation to make the application more user-friendly.
+- Generated a dataset summary.
+- Documented the project for better understanding.
+- Created a requirements file for dependency management.
+- Prepared the project for GitHub sharing and future deployment.
+
+---
+
 # 🎯 Project
 
 ## Student Score Prediction using Machine Learning
@@ -309,8 +340,8 @@ The project uses a **Linear Regression** model to predict a student's score base
 - ✅ Day 8 Completed
 - ✅ Day 9 Completed
 - ✅ Day 10 – Completed
-- ⏳ Day 11 – Completed
-- ⏳ Day 12 – Project Improvement
+- ✅ Day 11 – Completed
+- ⏳ Day 12 – Completed
 - ⏳ Day 13 – GitHub Project Documentation
 - ⏳ Day 14 – Final Project Submission
 
