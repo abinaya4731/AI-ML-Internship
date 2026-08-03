@@ -1,0 +1,7 @@
+print("Student Score Prediction Project")
+print("--------------------------------")
+print("Algorithm : Linear Regression")
+print("Language  : Python")
+print("Library   : Pandas, Scikit-learn")
+print("Dataset   : student_scores.csv")
+print("Purpose   : Predict student scores from study hours")
