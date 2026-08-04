@@ -1,6 +1,8 @@
 # 🚀 AI & ML Internship – Codomax Digital Solutions
 
-Welcome to my **AI & ML Internship** repository. This repository contains my daily learning, practice programs, assignments, and mini-projects completed during the **14-Day AI & Machine Learning Internship** at **Codomax Digital Solutions**.
+Welcome to my **AI & ML Internship** repository. This repository showcases my learning journey, daily practice programs, assignments, and mini-projects completed during the **14-Day AI & Machine Learning Internship** at **Codomax Digital Solutions**.
+
+Throughout this internship, I learned Python programming, data analysis, data visualization, machine learning fundamentals, model training, evaluation, and project documentation through hands-on practice.
 
 ---
 
@@ -10,6 +12,7 @@ Welcome to my **AI & ML Internship** repository. This repository contains my dai
 - **Domain:** Artificial Intelligence & Machine Learning
 - **Duration:** 14 Days
 - **Mode:** Remote
+- **Project:** Student Score Prediction using Linear Regression
 
 ---
 
@@ -27,27 +30,35 @@ AI-ML-Internship/
 ├── Day 7/
 ├── Day 8/
 ├── Day 9/
+├── Day 10/
+├── Day 11/
+├── Day 12/
+├── Day 13/
+├── Day 14/
+├── screenshots/
+├── requirements.txt
 └── README.md
 ```
 
 ---
 
-# ✅ Day 1 – Environment Setup
+# 📅 Daily Learning Progress
+
+## ✅ Day 1 – Environment Setup
 
 ### Topics Covered
-- Installed Python
-- Installed VS Code
-- Installed Jupyter Notebook
-- Installed Git
-- Created GitHub Repository
-- Learned AI Basics
-- Learned Machine Learning Basics
-- Learned Data Science Basics
-- Ran the First Python Program
+- Python Installation
+- VS Code Installation
+- Jupyter Notebook Setup
+- Git Installation
+- GitHub Repository Creation
+- Introduction to AI
+- Introduction to Machine Learning
+- Introduction to Data Science
 
 ---
 
-# ✅ Day 2 – Python Basics
+## ✅ Day 2 – Python Basics
 
 ### Topics Covered
 - Variables
@@ -66,7 +77,7 @@ AI-ML-Internship/
 
 ---
 
-# ✅ Day 3 – NumPy Basics
+## ✅ Day 3 – NumPy Basics
 
 ### Topics Covered
 - NumPy Installation
@@ -85,64 +96,67 @@ AI-ML-Internship/
 
 ---
 
-# ✅ Day 4 – Pandas Basics
+## ✅ Day 4 – Pandas Basics
 
 ### Topics Covered
 - Pandas Installation
-- Loading Dataset
-- DataFrame
-- Head & Tail
-- Info
-- Describe
+- DataFrames
+- Reading CSV Files
 - Selecting Rows & Columns
-- Dataset Summary
+- head()
+- tail()
+- info()
+- describe()
 
 ### Practice Programs
-- Load Dataset
 - DataFrame Operations
-- Dataset Information
+- Data Selection
+- Dataset Summary
 
 ---
 
-# ✅ Day 5 – Data Cleaning
+## ✅ Day 5 – Data Cleaning
 
 ### Topics Covered
 - Missing Values
-- Handling Null Values
+- Null Value Handling
 - Filling Missing Values
 - Removing Missing Values
-- Duplicate Data
+- Duplicate Records
 - Removing Duplicates
-- Dataset Statistics
-- Data Cleaning Techniques
+- Sorting Data
+- Reset Index
 
 ### Practice Programs
-- Missing Values
+- Missing Value Handling
 - Duplicate Removal
 - Data Cleaning
 
 ---
 
-# ✅ Day 6 – Data Visualization
+## ✅ Day 6 – Data Visualization
 
 ### Topics Covered
 - Matplotlib
-- Scatter Plot
 - Line Chart
 - Bar Chart
-- Data Visualization
+- Pie Chart
+- Histogram
+- Scatter Plot
 - Labels
 - Titles
 - Grid
 
 ### Practice Programs
-- Scatter Plot
 - Line Chart
 - Bar Chart
+- Pie Chart
+- Histogram
+- Scatter Plot
 
 ---
 
-# ✅ Day 7 – Machine Learning Basics
+## ✅ Day 7 – Machine Learning Basics
 
 ### Topics Covered
 - Introduction to Machine Learning
@@ -151,119 +165,170 @@ AI-ML-Internship/
 - Features & Target Variables
 - Train-Test Split
 - Linear Regression Basics
-- Scikit-learn Introduction
 
 ### Practice Programs
 - Dataset Loading
 - Feature Selection
 - Train-Test Split
-- Linear Regression Concepts
+- ML Basics
 
 ---
 
-# ✅ Day 8 – Build Linear Regression Model
+## ✅ Day 8 – Build Linear Regression Model
 
 ### Topics Covered
-- Loading Dataset
+- Dataset Loading
 - Feature Selection
 - Target Selection
 - Train-Test Split
-- Creating Linear Regression Model
+- Linear Regression Model
 - Model Training
 - Model Coefficient
 - Model Intercept
 
 ### Practice Programs
-- Create Linear Regression Model
-- Train the Model
-- Display Model Details
+- Model Creation
+- Model Training
+- Model Details
 
 ---
 
-# ✅ Day 9 – Student Score Prediction
+## ✅ Day 9 – Student Score Prediction
 
 ### Topics Covered
-- Predict Student Scores
+- Prediction using Linear Regression
 - Single Prediction
 - Multiple Predictions
-- Actual vs Predicted Results
+- Actual vs Predicted Values
 - User Input Prediction
 
 ### Practice Programs
 - Predict Student Score
 - Multiple Predictions
-- Actual vs Predicted Comparison
-- User Prediction Program
+- User Prediction
 
 ---
 
-# ✅ Day 10 – Model Evaluation
+## ✅ Day 10 – Model Evaluation
 
-### 📚 Topics Covered
-
+### Topics Covered
 - Model Evaluation
-- Actual vs Predicted Values
 - Mean Absolute Error (MAE)
 - Mean Squared Error (MSE)
 - R² Score
-- Model Performance Analysis
+- Performance Analysis
 
-### 💻 Practice Programs
-
-- evaluate_model.py
-- mae.py
-- mse.py
-- r2_score.py
-- model_summary.py
-
-### 🎯 Learning Outcomes
-
-- Evaluated the trained Linear Regression model.
-- Compared actual values with predicted values.
-- Calculated Mean Absolute Error (MAE).
-- Calculated Mean Squared Error (MSE).
-- Measured model accuracy using R² Score.
-- Understood the importance of evaluating Machine Learning models.
+### Practice Programs
+- Model Evaluation
+- MAE
+- MSE
+- R² Score
 
 ---
 
-# ✅ Day 11 – Student Score Prediction Application
+## ✅ Day 11 – Student Score Prediction Application
 
-### 📚 Topics Covered
-
-- Student Score Prediction Application
-- User Input Handling
-- Model Training
-- Linear Regression
-- Single Prediction
-- Multiple Predictions
+### Topics Covered
+- Machine Learning Application
+- User Input Prediction
 - Real-time Prediction
+- Multiple Predictions
 
-### 💻 Practice Programs
-
-- train_model.py
-- prediction_app.py
-- multiple_predictions.py
-- prediction_summary.py
-
-### 🎯 Learning Outcomes
-
-- Built a simple Machine Learning prediction application.
-- Accepted user input to predict student scores.
-- Used a trained Linear Regression model for predictions.
-- Tested the model with different study-hour values.
-- Improved understanding of deploying a basic ML workflow in Python.
+### Practice Programs
+- Prediction Application
+- User Prediction
+- Multiple Prediction
 
 ---
-# 🛠️ Technologies Used
+
+## ✅ Day 12 – Project Enhancement
+
+### Topics Covered
+- Project Structure
+- Input Validation
+- Dataset Summary
+- Project Documentation
+- Requirements File
+
+### Practice Programs
+- Enhanced Prediction
+- Dataset Summary
+- Project Information
+
+---
+
+## ✅ Day 13 – Documentation & GitHub Portfolio
+
+### Topics Covered
+- Documentation
+- GitHub Repository Organization
+- Project Overview
+- Changelog
+- Future Improvements
+- License
+
+---
+
+## ✅ Day 14 – Final Project Submission
+
+### Topics Covered
+- Final Project Report
+- Project Reflection
+- Repository Review
+- Submission Checklist
+- Final Documentation
+
+---
+
+# 💻 Final Project
+
+## 📌 Student Score Prediction using Machine Learning
+
+### 🎯 Objective
+
+Predict a student's score based on study hours using a Linear Regression Machine Learning model.
+
+### 📊 Dataset
+
+**student_scores.csv**
+
+| Study Hours | Student Score |
+|-------------|--------------:|
+| 1 | 15 |
+| 2 | 25 |
+| 3 | 35 |
+| 4 | 45 |
+| 5 | 55 |
+| 6 | 65 |
+| 7 | 75 |
+| 8 | 85 |
+| 9 | 95 |
+| 10 | 100 |
+
+### 🔄 Workflow
+
+1. Data Collection
+2. Data Loading
+3. Data Cleaning
+4. Data Visualization
+5. Feature Selection
+6. Train-Test Split
+7. Model Training
+8. Prediction
+9. Model Evaluation
+10. Project Documentation
+
+---
+
+# 🛠 Technologies Used
 
 - Python
 - NumPy
 - Pandas
 - Matplotlib
 - Scikit-learn
-- Jupyter Notebook
 - VS Code
+- Jupyter Notebook
 - Git
 - GitHub
 
@@ -272,91 +337,118 @@ AI-ML-Internship/
 # 🎯 Skills Gained
 
 - Python Programming
-- NumPy Arrays
-- Pandas Data Analysis
+- NumPy
+- Pandas
+- Data Analysis
 - Data Cleaning
 - Data Visualization
-- Machine Learning Fundamentals
-- Train-Test Split
+- Machine Learning
+- Supervised Learning
 - Linear Regression
+- Train-Test Split
 - Model Training
-- Student Score Prediction
+- Prediction
+- Model Evaluation
 - Git & GitHub
-
----
-
-# ✅ Day 12 – Project Enhancement
-
-### 📚 Topics Covered
-
-- Project Enhancement
-- Code Organization
-- Input Validation
-- Dataset Summary
-- Project Documentation
-- Requirements File
-- Project Structure
-
-### 💻 Practice Programs
-
-- enhanced_prediction.py
-- dataset_summary.py
-- project_information.py
-- project_summary.md
-- requirements.txt
-
-### 🎯 Learning Outcomes
-
-- Improved the project structure.
-- Added input validation to make the application more user-friendly.
-- Generated a dataset summary.
-- Documented the project for better understanding.
-- Created a requirements file for dependency management.
-- Prepared the project for GitHub sharing and future deployment.
-
----
-
-# 🎯 Project
-
-## Student Score Prediction using Machine Learning
-
-**Input:** Study Hours
-
-**Output:** Predicted Student Score
-
-The project uses a **Linear Regression** model to predict a student's score based on the number of hours studied.
+- Documentation
 
 ---
 
 # 📈 Internship Progress
 
-- ✅ Day 1 Completed
-- ✅ Day 2 Completed
-- ✅ Day 3 Completed
-- ✅ Day 4 Completed
-- ✅ Day 5 Completed
-- ✅ Day 6 Completed
-- ✅ Day 7 Completed
-- ✅ Day 8 Completed
-- ✅ Day 9 Completed
-- ✅ Day 10 – Completed
-- ✅ Day 11 – Completed
-- ⏳ Day 12 – Completed
-- ⏳ Day 13 – GitHub Project Documentation
-- ⏳ Day 14 – Final Project Submission
+| Day | Status |
+|------|--------|
+| Day 1 | ✅ Completed |
+| Day 2 | ✅ Completed |
+| Day 3 | ✅ Completed |
+| Day 4 | ✅ Completed |
+| Day 5 | ✅ Completed |
+| Day 6 | ✅ Completed |
+| Day 7 | ✅ Completed |
+| Day 8 | ✅ Completed |
+| Day 9 | ✅ Completed |
+| Day 10 | ✅ Completed |
+| Day 11 | ✅ Completed |
+| Day 12 | ✅ Completed |
+| Day 13 | ✅ Completed |
+| Day 14 | ✅ Completed |
+
+---
+
+# 📸 Project Screenshots
+
+```
+screenshots/
+│── day1_output.png
+│── charts.png
+│── model_training.png
+│── prediction_output.png
+│── evaluation.png
+│── github_repository.png
+```
+
+---
+
+# 📦 Installation
+
+Clone the repository:
+
+```bash
+https://github.com/abinaya4731/AI-ML-Internship/edit/main/Main%20README.md
+```
+
+Move to the project directory:
+
+```bash
+cd AI-ML-Internship
+```
+
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run any Python file:
+
+```bash
+python filename.py
+```
+
+---
+
+# 🚀 Future Improvements
+
+- Use a larger dataset.
+- Try multiple Machine Learning algorithms.
+- Build a web application using Flask or Streamlit.
+- Deploy the project to the cloud.
+- Improve prediction accuracy.
 
 ---
 
 # 👩‍💻 Author
 
-**Abinaya M**
+Abinaya M
 
 🎓 B.Tech – Artificial Intelligence & Data Science
 
-🔗 GitHub: https://github.com/abinaya4731
+🌐 GitHub: https://github.com/abinaya4731
 
-🔗 LinkedIn: https://www.linkedin.com/in/abinaya-maadhu?utm_source=share_via&utm_content=profile&utm_medium=member_android
+💼 LinkedIn: https://www.linkedin.com/in/abinaya-maadhu?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
-⭐ **Thank you for visiting my repository! Feel free to explore my daily progress and projects.**
+# ⭐ Acknowledgement
+
+I sincerely thank Codomax Digital Solutions for providing this internship opportunity. It helped me strengthen my practical knowledge of Python, Data Science, Machine Learning, Git, and GitHub through hands-on learning.
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ If you found this repository helpful, don't forget to Star ⭐ the repository and share your feedback!
